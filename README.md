@@ -4,7 +4,8 @@ Code examples for using sensors plugged into an Arduino Board interacting with P
 
 # Operating principle
 
-<img class="aligncenter wp-image-2502 size-full" src="http://www.online-courses.julien-drochon.net/wp-content/uploads/2018/05/arduino-sensor-to-p5js-01.png" alt=""/>
+![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-D_B_Arduino-sensors-to-P5js-serialControlApp-Canvas/master/operative-principle.png)
+
 
 # Software Install
 
