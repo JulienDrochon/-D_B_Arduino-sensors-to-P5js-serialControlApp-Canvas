@@ -18,10 +18,10 @@ Downlaod and install MAMP first : https://www.mamp.info/en/downloads/
 # Folders detail 
 
 
-**A_Arduino_Sensors**
+**D_B_A_Arduino_Sensors**
 Code examples for uploading to Arduino Board. Used sensors : 1 potentiometer, 1 switch button, 1 distance sensor (HCSR04), 1 photocell, 2 potentiometers, 2 switch buttons, 2 photocells. Wiring schematics inside folders.
 
-**B_p5js**
+**D_B_B_p5js**
 Codes receiving data from 1 sensor into the web browser. Edit the *sketch.js* file for customizing.
 <br> Codes receiving data from 1 sensor into the web browser.
 <br> Codes for switch button or on/off sensor.
@@ -31,5 +31,5 @@ Codes receiving data from 1 sensor into the web browser. Edit the *sketch.js* fi
 <br> Codes for 2 potentiometers, 2 photocells or 2 sensors sending several numbered values.
 <br> Extra examples for presenting your sketches (fullscreen, web page centered, …).
  
-**C_Mes_Projets**
+**D_B_C_My_projects**
 Folder where to duplicate examples for customizing or creating new sketches.
