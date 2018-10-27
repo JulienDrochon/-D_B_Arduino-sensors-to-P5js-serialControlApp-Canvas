@@ -1,42 +1,32 @@
-# -D_B_Arduino-sensors-to-P5js-serialControlApp-Canvas
-Code examples for using sensors plugged into an Arduino Board interacting with P5js in web browser.
-
-
-# Operating principle
-
-<img class="aligncenter wp-image-2502 size-full" src="http://www.online-courses.julien-drochon.net/wp-content/uploads/2018/05/arduino-sensor-to-p5js-01.png" alt=""/>
-
-# Software Install
-
- - P5 Serial Control
-
-Downlaod and install p5 serial control first : https://github.com/vanevery/p5.serialcontrol/releases
-
- - MAMP
-Downlaod and install MAMP first : https://www.mamp.info/en/downloads/
-
-# Folders detail 
-
-
-**A_Arduino_Sensors**
-Code examples for uploading to Arduino Board. Used sensors : 1 potentiometer, 1 switch button, 1 distance sensor (HCSR04), 1 photocell, 2 potentiometers, 2 switch buttons, 2 photocells. Wiring schematics inside folders.
-
-**B_p5js**
-Codes receiving data from 1 sensor into the web browser. Edit the *sketch.js* file for customizing.
- - B_A_Receive_from_1_sensor : 
-Codes receiving data from 1 sensor into the web browser.
-<br>B_A_A_on-off : 
-Codes for switch button or on/off sensor.
-<br> B_A_B_values : 
-Codes for potentiometer, photocell or sensor sending several numbered values.
- - B_B_Receive_from_2_sensors : 
-Codes receiving data from 2 sensors into the web browser.
-<br>B_B_A_on-off : 
-Codes for 2 switch buttons or on/off sensors.
-<br>B_B_B_values : 
-Codes for 2 potentiometers, 2 photocells or 2 sensors sending several numbered values.
- - B_C_Canvas_presentation : 
- Extra examples for presenting your sketches (fullscreen, web page centered, …).
- 
-**C_Mes_Projets**
-Folder where to duplicate examples for customizing or creating new sketches.
+# D_B_B_A_p5js_1_button_read_values
+# D_B_B_B_p5js_1_button_forme_show_hide
+# D_B_B_C_p5js_1_button_2_images
+# D_B_B_D_p5js_1_button_typography_regular_italic
+# D_B_B_E_p5js_1_button_video_play_pause
+# D_B_B_F_p5js_1_button_son_play_pause
+# D_B_B_G_p5js_1_button_3D_light_on_off
+# D_B_B_H_p5js_1_potentiometre_read_values
+# D_B_B_I_p5js_1_potentiometre_forme_taille
+# D_B_B_J_p5js_1_potentiometre_forme_couleur
+# D_B_B_K_p5js_1_potentiometre_image_transparence
+# D_B_B_L_p5js_1_potentiometre_image_filtre
+# D_B_B_M_p5js_1_potentiometre-video-transparence
+# D_B_B_N_p5js_1_potentiometre-typographie-taille
+# D_B_B_O_p5js_1_potentiometre-typographie-choix
+# D_B_B_P_p5js_1_potentiometre-son-volume
+# D_B_B_Q_p5js_1_potentiometre_3D-objet-move
+# D_B_B_R_p5js_1_potentiometre_3D-objet-rotate
+# D_B_B_S_p5js_1_potentiometre_3D-light-move
+# D_B_B_T_p5js_2_buttons_typographie_switch_fonts
+# D_B_B_U_p5js_2_buttons_video_1_play_1_pause
+# D_B_B_V_p5js_2_buttons_son_1_play_1_pause
+# D_B_B_W_p5js_2_buttons_son_jump
+# D_B_B_X_p5js_2_buttons_3D_light_color
+# D_B_B_Y_p5js_2_potentiometres_read_values
+# D_B_B_Z_A_p5js_2_potentiometres_forme_position
+# D_B_B_Z_B_p5js_2_potentiometres_forme_taille
+# D_B_B_Z_C_p5js_2_potentiometres_forme_couleur
+# D_B_B_Z_D_p5js_2_potentiometres_image_taille
+# D_B_B_Z_E_p5js_2_potentiometres_image_position
+# D_B_B_Z_F_p5js_2_potentiometres_image_filtres
+# D_B_B_Z_G_p5js_2_buttons_read_values
